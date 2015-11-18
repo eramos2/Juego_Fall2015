@@ -17,7 +17,7 @@ public class Nav : MonoBehaviour {
 			Application.LoadLevel(siguiente);
 		}  
 	}
-	
+
 	void OnMouseDown () {  
 		clickedOn = true;
 	}
